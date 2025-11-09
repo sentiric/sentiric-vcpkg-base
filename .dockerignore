@@ -1,0 +1,9 @@
+# sentiric-vcpkg-base/.dockerignore
+.git
+.github
+Dockerfile
+.dockerignore
+README.md
+*.log
+temp/
+build/
